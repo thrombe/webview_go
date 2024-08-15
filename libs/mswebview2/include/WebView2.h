@@ -975,7 +975,7 @@ typedef interface ICoreWebView2ProcessInfosChangedEventHandler ICoreWebView2Proc
 /* header files for imported files */
 #include "objidl.h"
 #include "oaidl.h"
-#include "EventToken.h"
+#include "eventtoken.h"
 
 #ifdef __cplusplus
 extern "C"{
